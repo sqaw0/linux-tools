@@ -1,0 +1,2 @@
+4040 #port
+wlan0 #interface for scan
